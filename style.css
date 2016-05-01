@@ -238,7 +238,7 @@
     height: 100px;
     width: 190px;
     margin-top: 150px; 
-    margin-left: 60px;
+    margin-left: 30px;
 
     border-color: blue;
     border-width: 0px;
@@ -249,25 +249,15 @@
     
 }
 
-#logo {
-	height: 70px;
-    width: 150px;
-}
-
-#group {
-	height: 70px;
-    width: 650px;
-}
-
 #earth {
-    position: relative;
+    position: absolute;
     top: 55%;
     left: 25%;
     /* Style your earth */
     height: 90px;
     width: 90px;
     margin-top: -20px; 
-    margin-left: 200px;
+    margin-left: 170px;
 
     border-color: blue;
     border-width: 0px;
@@ -278,14 +268,14 @@
 }
 
 #earth-orbit {
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
 
     width: 400px;
     height: 400px;
     margin-top: 40px;
-    margin-left: 0px;
+    margin-left: -30px;
 
     border-width: 1px;
     border-style: dotted;
@@ -298,6 +288,16 @@
        -o-animation: spin-right 10s linear infinite;
           animation: spin-right 10s linear infinite;
 
+}
+
+#logo {
+	height: 70px;
+    width: 120px;
+}
+
+#group {
+	height: 70px;
+    width: 650px;
 }
 
 -webkit-keyframes spin-right {
