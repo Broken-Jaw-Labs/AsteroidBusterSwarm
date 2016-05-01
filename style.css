@@ -260,7 +260,7 @@
 }
 
 #earth {
-    position: absolute;
+    position: relative;
     top: 55%;
     left: 25%;
     /* Style your earth */
@@ -278,7 +278,7 @@
 }
 
 #earth-orbit {
-    position: absolute;
+    position: relative;
     top: 50%;
     left: 50%;
 
