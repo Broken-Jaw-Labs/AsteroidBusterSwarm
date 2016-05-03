@@ -1,0 +1,284 @@
+# simple.world - basic world file example
+# Authors: Richard Vaughan
+# $Id$
+
+include "pioneer.inc"
+include "bigbob.inc"
+include "drill.inc"
+include "drillbase.inc"
+include "map.inc"
+include "sick.inc"
+
+# time to pause (in GUI mode) or quit (in headless mode (-g)) the simulation
+quit_time 3600 # 1 hour of simulated time
+
+paused 0
+
+resolution 0.02
+
+# configure the GUI window
+window
+(
+  size [ 1200.000 715.000 ] # in pixels
+  scale 25.000   # pixels per meter
+  #center [ -0.019  -0.282 ]
+  #rotate [ 0  0 ]
+  			
+  show_data 1              # 1=on 0=off
+)
+
+# load an environment bitmap
+floorplan
+( 
+  name "cave"
+  size [50.000 25.000 2.000]
+  pose [0 0 0 0]
+  bitmap "cave.png"
+)
+
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r0"
+  color "red"
+  pose [ 9.596 0.404 0 135.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r1"
+  color "red"
+  pose [ 24.265 5.490 0 82.242 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r2"
+  color "red"
+  pose [ -13.624 -5.624 0 45.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r3"
+  color "red"
+  pose [ 19.714 -11.677 0 -172.242 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r4"
+  color "red"
+  pose [ 3.360 0 0 0 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r5"
+  color "red"
+  pose [ 0.376 7.624 0 -45.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r6"
+  color "red"
+  pose [ -9.624 3.624 0 -45.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r7"
+  color "red"
+  pose [ 7.596 1.596 0 -135.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r8"
+  color "red"
+  pose [ 19.624 7.624 0 -135.000 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+fancypioneer2dx
+(		  
+  # can refer to the robot by this name
+  name "r9"
+  color "red"
+  pose [ -24.092 4.889 0 -103.487 ] 
+
+  sicklaser(   
+     # ctrl "lasernoise"  # uncomment this line to run a laser noise generator
+  )
+ 
+  ctrl "wander"
+
+  # report error-free position in world coordinates
+  localization "gps"
+  localization_origin [ 0 0 0 0 ]
+)
+
+bigbob
+(
+name "bob1"
+pose [-24 -3 0 45]
+color "green"
+)
+
+bigbob
+(
+name "bob2"
+pose [-24 -6 0 0]
+color "green"
+)
+
+
+
+drill
+(
+name "drill1"
+pose [0 0 0 0]
+color "blue"
+)
+
+drillbase
+(
+name "drillbase1"
+pose [0 0 0 0]
+color "red"
+)
+
+define orange model
+(
+# this is a picture of a black circle
+bitmap "circle.png"
+size [0.150 0.150 0.150]
+color "orange"
+)
+
+
+define carton model
+(
+# a carton is retangular
+# so make a square shape and use size[]
+block
+(
+points 4
+point[0] [1 0]
+point[1] [1 1]
+point[2] [0 1]
+point[3] [0 0]
+z [0 1]
+)
+# average litre carton size is ~ 20cm x 10cm x 5cm
+size [0.100 0.200 0.200]
+color "DarkBlue"
+)
+orange(name "orange1" pose [-0.75 -0.75 0 0])
+orange(name "orange2" pose [-0.75 -0.60 0 0])
+orange(name "orange3" pose [-0.75 -0.45 0 0])
+orange(name "orange4" pose [-0.75 -0.30 0 0])
+carton(name "carton1" pose [-0.75 -0.90 0 0])
+carton(name "carton2" pose [-0.60 -0.90 0 0])
+carton(name "carton3" pose [-0.45 -0.90 0 0])
+carton(name "carton4" pose [-0.30 -0.90 0 0])
+#drill(name "drill1" pose [0.000 0.000 0 0])
