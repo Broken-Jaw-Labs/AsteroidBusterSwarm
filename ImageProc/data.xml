@@ -1,0 +1,1812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+  <property>
+    <absolute-magnitude>15.3</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>4.13</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>29744</arc-length>
+    <argument-of-perihelion>278.72596</argument-of-perihelion>
+    <ascending-node>124.3736246</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.6</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.00604</earth-moid>
+    <eccentricity>0.6293824</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1934-02-10.0</first-observation-date-used>
+    <first-opposition-used>1934</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.44712</inclination>
+    <jupiter-moid>1.29216</jupiter-moid>
+    <km-neo>true</km-neo>
+    <last-observation-date-used>2015-07-19.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>T</lightcurve-notes>
+    <lightcurve-quality>3</lightcurve-quality>
+    <mars-moid>0.04118</mars-moid>
+    <mean-anomaly>281.88332</mean-anomaly>
+    <mean-daily-motion>0.2442748</mean-daily-motion>
+    <mercury-moid>0.61803</mercury-moid>
+    <name>Toutatis</name>
+    <neo>true</neo>
+    <number>4179</number>
+    <observations>5320</observations>
+    <oppositions>25</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-07T14:19:12Z</orbit-updated-at>
+    <p-vector-x>0.73014244</p-vector-x>
+    <p-vector-y>0.62993911</p-vector-y>
+    <p-vector-z>0.26470499</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2016-11-27.79013</perihelion-date>
+    <perihelion-date-jd>2457720.29013</perihelion-date-jd>
+    <perihelion-distance>0.939311</perihelion-distance>
+    <period>4.03</period>
+    <pha>true</pha>
+    <phase-slope>0.1</phase-slope>
+    <q-vector-x>-0.68326461</q-vector-x>
+    <q-vector-y>0.66944686</q-vector-y>
+    <q-vector-z>0.29153109</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.57</residual-rms>
+    <saturn-moid>5.70773</saturn-moid>
+    <semimajor-axis>2.5344481</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>1.46</spin-max-amplitude>
+    <spin-min-amplitude>0.16</spin-min-amplitude>
+    <spin-period>176.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:21Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>B</taxonomy-class-source>
+    <tisserand-jupiter>3.1</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-08T02:34:29Z</updated-at>
+    <uranus-moid>14.4115</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.21585</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>18.2</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.025</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>12289</arc-length>
+    <argument-of-perihelion>158.01941</argument-of-perihelion>
+    <ascending-node>314.458865</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>5.0</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.0032</earth-moid>
+    <eccentricity>0.359973</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1981-09-30.0</first-observation-date-used>
+    <first-opposition-used>1981</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.43183</inclination>
+    <jupiter-moid>3.09611</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-05-24.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>T0</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.03834</mars-moid>
+    <mean-anomaly>253.78906</mean-anomaly>
+    <mean-daily-motion>0.5426026</mean-daily-motion>
+    <mercury-moid>0.63409</mercury-moid>
+    <name>Nereus</name>
+    <neo>true</neo>
+    <number>4660</number>
+    <observations>519</observations>
+    <oppositions>12</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:21:01Z</orbit-updated-at>
+    <p-vector-x>-0.38241654</p-vector-x>
+    <p-vector-y>0.8439806</p-vector-y>
+    <p-vector-z>0.37610416</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2016-07-26.74350</perihelion-date>
+    <perihelion-date-jd>2457596.2435</perihelion-date-jd>
+    <perihelion-distance>0.9528245</perihelion-distance>
+    <period>1.82</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.9238179</q-vector-x>
+    <q-vector-y>-0.34138078</q-vector-y>
+    <q-vector-z>-0.17326183</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.58</residual-rms>
+    <saturn-moid>7.93572</saturn-moid>
+    <semimajor-axis>1.4887255</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.8</spin-max-amplitude>
+    <spin-min-amplitude>0.6</spin-min-amplitude>
+    <spin-period>15.1</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:22Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>4.5</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-02-25T15:24:40Z</updated-at>
+    <uranus-moid>17.0131</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.23476</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>18.1</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.327</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>9126</arc-length>
+    <argument-of-perihelion>170.99365</argument-of-perihelion>
+    <ascending-node>311.7937101</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>5.8</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.16879</earth-moid>
+    <eccentricity>0.3374237</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1990-01-21.0</first-observation-date-used>
+    <first-opposition-used>1990</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.99286</inclination>
+    <jupiter-moid>2.75745</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-01-17.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>.</lightcurve-notes>
+    <lightcurve-quality>2+</lightcurve-quality>
+    <mars-moid>0.05586</mars-moid>
+    <mean-anomaly>110.50946</mean-anomaly>
+    <mean-daily-motion>0.4294177</mean-daily-motion>
+    <mercury-moid>0.82628</mercury-moid>
+    <name>Belenus</name>
+    <neo>true</neo>
+    <number>11284</number>
+    <observations>509</observations>
+    <oppositions>8</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:22:00Z</orbit-updated-at>
+    <p-vector-x>-0.5415934</p-vector-x>
+    <p-vector-y>0.76909106</p-vector-y>
+    <p-vector-z>0.33937521</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2015-04-30.65277</perihelion-date>
+    <perihelion-date-jd>2457143.15277</perihelion-date-jd>
+    <perihelion-distance>1.1528828</perihelion-distance>
+    <period>2.3</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.84024068</q-vector-x>
+    <q-vector-y>-0.48281003</q-vector-y>
+    <q-vector-z>-0.24675912</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.46</residual-rms>
+    <saturn-moid>7.56117</saturn-moid>
+    <semimajor-axis>1.7400001</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.45</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>5.43</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:27Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>4.1</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2015-11-17T04:08:30Z</updated-at>
+    <uranus-moid>16.865</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.43588</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>15.9</absolute-magnitude>
+    <albedo-neowise>0.342</albedo-neowise>
+    <albedo-neowise-unc>0.077</albedo-neowise-unc>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>3.223</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>9302</arc-length>
+    <argument-of-perihelion>9.40834</argument-of-perihelion>
+    <ascending-node>281.6354181</ascending-node>
+    <b-minus-v>0.834</b-minus-v>
+    <b-minus-v-source>M</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>SEQ</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.8</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise>1.57</diameter-neowise>
+    <diameter-neowise-unc>0.07</diameter-neowise-unc>
+    <earth-moid>0.22317</earth-moid>
+    <eccentricity>0.443148</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1990-08-28.0</first-observation-date-used>
+    <first-opposition-used>1990</first-opposition-used>
+    <g-neowise>0.15</g-neowise>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise>15.8</h-neowise>
+    <inclination>1.32699</inclination>
+    <jupiter-moid>1.97983</jupiter-moid>
+    <km-neo>true</km-neo>
+    <last-observation-date-used>2016-02-15.0</last-observation-date-used>
+    <last-opposition-used>2016</last-opposition-used>
+    <lightcurve-notes>NT0</lightcurve-notes>
+    <lightcurve-quality>3</lightcurve-quality>
+    <mars-moid>0.04153</mars-moid>
+    <mean-anomaly>241.91284</mean-anomaly>
+    <mean-daily-motion>0.2952597</mean-daily-motion>
+    <mercury-moid>0.79055</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>19764</number>
+    <observations>861</observations>
+    <oppositions>14</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-07T14:19:34Z</orbit-updated-at>
+    <p-vector-x>0.35903785</p-vector-x>
+    <p-vector-y>-0.85780592</p-vector-y>
+    <p-vector-z>-0.36777824</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2017-02-15.94332</perihelion-date>
+    <perihelion-date-jd>2457800.44332</perihelion-date-jd>
+    <perihelion-distance>1.2437684</perihelion-distance>
+    <period>3.34</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.93304734</q-vector-x>
+    <q-vector-y>0.32031334</q-vector-y>
+    <q-vector-z>0.16377433</q-vector-z>
+    <rc-minus-ic>0.387</rc-minus-ic>
+    <rc-minus-ic-source>M</rc-minus-ic-source>
+    <residual-rms>0.41</residual-rms>
+    <saturn-moid>5.8139</saturn-moid>
+    <semimajor-axis>2.2335709</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.8</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>59.3</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:30Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>3.5</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-02-25T15:25:44Z</updated-at>
+    <uranus-moid>15.3167</uranus-moid>
+    <v-minus-gprime>-0.38</v-minus-gprime>
+    <v-minus-gprime-source>m</v-minus-gprime-source>
+    <v-minus-iprime>0.392</v-minus-iprime>
+    <v-minus-iprime-source>m</v-minus-iprime-source>
+    <v-minus-rc>0.444</v-minus-rc>
+    <v-minus-rc-source>M</v-minus-rc-source>
+    <v-minus-rprime>0.24</v-minus-rprime>
+    <v-minus-rprime-source>m</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.496</v-minus-zprime>
+    <v-minus-zprime-source>m</v-minus-zprime-source>
+    <venus-moid>0.51336</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>19.2</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>1.695</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>6291</arc-length>
+    <argument-of-perihelion>162.80627</argument-of-perihelion>
+    <ascending-node>69.0804485</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>4.6</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.01306</earth-moid>
+    <eccentricity>0.280142</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1998-09-19.0</first-observation-date-used>
+    <first-opposition-used>1998</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.62145</inclination>
+    <jupiter-moid>3.28701</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-12-10.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>T-</lightcurve-notes>
+    <lightcurve-quality>3</lightcurve-quality>
+    <mars-moid>0.00087</mars-moid>
+    <mean-anomaly>232.69213</mean-anomaly>
+    <mean-daily-motion>0.6468772</mean-daily-motion>
+    <mercury-moid>0.49384</mercury-moid>
+    <name>Itokawa</name>
+    <neo>true</neo>
+    <number>25143</number>
+    <observations>1043</observations>
+    <oppositions>9</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:23:52Z</orbit-updated-at>
+    <p-vector-x>-0.61710773</p-vector-x>
+    <p-vector-y>-0.72523343</p-vector-y>
+    <p-vector-z>-0.30531052</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2016-07-27.80377</perihelion-date>
+    <perihelion-date-jd>2457597.30377</perihelion-date-jd>
+    <perihelion-distance>0.9531652</perihelion-distance>
+    <period>1.52</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.78643465</q-vector-x>
+    <q-vector-y>-0.55540894</q-vector-y>
+    <q-vector-z>-0.2702618</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.53</residual-rms>
+    <saturn-moid>7.38576</saturn-moid>
+    <semimajor-axis>1.3241017</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>1.05</spin-max-amplitude>
+    <spin-min-amplitude>0.69</spin-min-amplitude>
+    <spin-period>12.13</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:31Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>4.9</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-24T13:50:51Z</updated-at>
+    <uranus-moid>17.0913</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.22924</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>19.4</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>1.157</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>20802</arc-length>
+    <argument-of-perihelion>14.89442</argument-of-perihelion>
+    <ascending-node>178.2377458</ascending-node>
+    <b-minus-v>0.666</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.4</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.014</earth-moid>
+    <eccentricity>0.264723</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1954-11-20.0</first-observation-date-used>
+    <first-opposition-used>1954</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.2996</inclination>
+    <jupiter-moid>3.79083</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2011-11-03.0</last-observation-date-used>
+    <last-opposition-used>2011</last-opposition-used>
+    <lightcurve-notes>.</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.24387</mars-moid>
+    <mean-anomaly>191.72393</mean-anomaly>
+    <mean-daily-motion>1.1259783</mean-daily-motion>
+    <mercury-moid>0.24376</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>65679</number>
+    <observations>397</observations>
+    <oppositions>9</oppositions>
+    <orbit-type>2</orbit-type>
+    <orbit-uncertainty>2</orbit-uncertainty>
+    <orbit-updated-at>2014-07-07T14:20:53Z</orbit-updated-at>
+    <p-vector-x>-0.97384652</p-vector-x>
+    <p-vector-y>-0.21070851</p-vector-y>
+    <p-vector-z>-0.08499924</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.35</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.32</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.14</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.13</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.32</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2016-06-10.44876</perihelion-date>
+    <perihelion-date-jd>2457549.94876</perihelion-date-jd>
+    <perihelion-distance>0.672822</perihelion-distance>
+    <period>0.88</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.22720577</q-vector-x>
+    <q-vector-y>-0.90197925</q-vector-y>
+    <q-vector-z>-0.36716613</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.59</residual-rms>
+    <saturn-moid>8.03182</saturn-moid>
+    <semimajor-axis>0.9150592</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.27</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>7.73</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:34Z</spin-updated-at>
+    <taxonomy-class>B</taxonomy-class>
+    <taxonomy-class-source>B</taxonomy-class-source>
+    <tisserand-jupiter>6.5</tisserand-jupiter>
+    <u-minus-b>0.35</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-08T02:36:22Z</updated-at>
+    <uranus-moid>17.571</uranus-moid>
+    <v-minus-gprime>-0.28</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.334</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.361</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.17</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.448</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.00367</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>20.2</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>1.699</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>5103</arc-length>
+    <argument-of-perihelion>67.10957</argument-of-perihelion>
+    <ascending-node>175.9645138</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>true</critical-list-numbered-object>
+    <delta-v>4.4</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.02852</earth-moid>
+    <eccentricity>0.2528461</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2001-10-18.0</first-observation-date-used>
+    <first-opposition-used>2001</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.90514</inclination>
+    <jupiter-moid>3.30469</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-10-08.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>T</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.03942</mars-moid>
+    <mean-anomaly>135.28665</mean-anomaly>
+    <mean-daily-motion>0.6241754</mean-daily-motion>
+    <mercury-moid>0.55067</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>89136</number>
+    <observations>1246</observations>
+    <oppositions>6</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:31:29Z</orbit-updated-at>
+    <p-vector-x>-0.45280215</p-vector-x>
+    <p-vector-y>-0.82973701</p-vector-y>
+    <p-vector-z>-0.32635367</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2015-06-10.25538</perihelion-date>
+    <perihelion-date-jd>2457183.75538</perihelion-date-jd>
+    <perihelion-distance>1.0131527</perihelion-distance>
+    <period>1.58</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.89160795</q-vector-x>
+    <q-vector-y>-0.4204177</q-vector-y>
+    <q-vector-z>-0.16817912</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.47</residual-rms>
+    <saturn-moid>7.35155</saturn-moid>
+    <semimajor-axis>1.356016</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.9</spin-max-amplitude>
+    <spin-min-amplitude>0.61</spin-min-amplitude>
+    <spin-period>14.39</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:35Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>4.8</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-29T20:50:36Z</updated-at>
+    <uranus-moid>16.9825</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.28814</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>21.7</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.741</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>1944</arc-length>
+    <argument-of-perihelion>19.09791</argument-of-perihelion>
+    <ascending-node>215.2263776</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>true</critical-list-numbered-object>
+    <delta-v>5.6</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.00104</earth-moid>
+    <eccentricity>0.4782595</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2000-03-04.0</first-observation-date-used>
+    <first-opposition-used>2000</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.39806</inclination>
+    <jupiter-moid>2.25714</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2005-06-30.0</last-observation-date-used>
+    <last-opposition-used>2005</last-opposition-used>
+    <lightcurve-notes>RT0</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.05397</mars-moid>
+    <mean-anomaly>74.8193</mean-anomaly>
+    <mean-daily-motion>0.3904454</mean-daily-motion>
+    <mercury-moid>0.50662</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>162416</number>
+    <observations>56</observations>
+    <oppositions>3</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:40:08Z</orbit-updated-at>
+    <p-vector-x>-0.58320146</p-vector-x>
+    <p-vector-y>-0.74619722</p-vector-y>
+    <p-vector-z>-0.32103857</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2015-07-05.37447</perihelion-date>
+    <perihelion-date-jd>2457208.87447</perihelion-date-jd>
+    <perihelion-distance>0.9672756</perihelion-distance>
+    <period>2.52</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.81231767</q-vector-x>
+    <q-vector-y>-0.53766703</q-vector-y>
+    <q-vector-z>-0.2259517</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.53</residual-rms>
+    <saturn-moid>6.36047</saturn-moid>
+    <semimajor-axis>1.8539401</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude nil="true"/>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>24.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag>&gt;</spin-period-flag>
+    <spin-updated-at>2014-10-27T13:51:37Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>3.9</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-29T20:50:37Z</updated-at>
+    <uranus-moid>16.4819</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.24261</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>17.9</absolute-magnitude>
+    <albedo-neowise>0.161</albedo-neowise>
+    <albedo-neowise-unc>0.026</albedo-neowise-unc>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.838</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>7594</arc-length>
+    <argument-of-perihelion>186.31939</argument-of-perihelion>
+    <ascending-node>285.4334596</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>5.6</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise>0.88</diameter-neowise>
+    <diameter-neowise-unc>0.01</diameter-neowise-unc>
+    <earth-moid>0.02941</earth-moid>
+    <eccentricity>0.4740696</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>1993-10-09.0</first-observation-date-used>
+    <first-opposition-used>1993</first-opposition-used>
+    <g-neowise>0.15</g-neowise>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise>17.9</h-neowise>
+    <inclination>1.67951</inclination>
+    <jupiter-moid>2.30259</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2014-07-25.0</last-observation-date-used>
+    <last-opposition-used>2014</last-opposition-used>
+    <lightcurve-notes>NT0</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.05805</mars-moid>
+    <mean-anomaly>81.33499</mean-anomaly>
+    <mean-daily-motion>0.3688931</mean-daily-motion>
+    <mercury-moid>0.69618</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>162998</number>
+    <observations>825</observations>
+    <oppositions>6</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T19:31:36Z</orbit-updated-at>
+    <p-vector-x>-0.37055801</p-vector-x>
+    <p-vector-y>0.85344399</p-vector-y>
+    <p-vector-z>0.36649708</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2015-06-06.51610</perihelion-date>
+    <perihelion-date-jd>2457180.0161</perihelion-date-jd>
+    <perihelion-distance>1.0126605</perihelion-distance>
+    <period>2.67</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.92837955</q-vector-x>
+    <q-vector-y>-0.32833039</q-vector-y>
+    <q-vector-z>-0.1740993</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.43</residual-rms>
+    <saturn-moid>7.17624</saturn-moid>
+    <semimajor-axis>1.9254647</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.4</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>68.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:37Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>3.8</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-08T02:39:52Z</updated-at>
+    <uranus-moid>16.4985</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.29578</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>16.4</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>4.692</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>3957</arc-length>
+    <argument-of-perihelion>292.34763</argument-of-perihelion>
+    <ascending-node>142.6274974</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.8</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.02401</earth-moid>
+    <eccentricity>0.661398</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2002-07-13.0</first-observation-date-used>
+    <first-opposition-used>2002</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.9841</inclination>
+    <jupiter-moid>0.63169</jupiter-moid>
+    <km-neo>true</km-neo>
+    <last-observation-date-used>2013-05-13.0</last-observation-date-used>
+    <last-opposition-used>2013</last-opposition-used>
+    <lightcurve-notes>R</lightcurve-notes>
+    <lightcurve-quality>1+</lightcurve-quality>
+    <mars-moid>0.00799</mars-moid>
+    <mean-anomaly>236.8337</mean-anomaly>
+    <mean-daily-motion>0.207654</mean-daily-motion>
+    <mercury-moid>0.64876</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>214869</number>
+    <observations>641</observations>
+    <oppositions>6</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:46:33Z</orbit-updated-at>
+    <p-vector-x>0.25890172</p-vector-x>
+    <p-vector-y>0.89844971</p-vector-y>
+    <p-vector-z>0.35462378</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2017-08-28.13240</perihelion-date>
+    <perihelion-date-jd>2457993.6324</perihelion-date-jd>
+    <perihelion-distance>0.9563097</perihelion-distance>
+    <period>4.75</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.96567502</q-vector-x>
+    <q-vector-y>0.23277627</q-vector-y>
+    <q-vector-z>0.11526906</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.43</residual-rms>
+    <saturn-moid>5.33906</saturn-moid>
+    <semimajor-axis>2.8242885</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.6</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>85.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:38Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>2.9</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-08T02:41:54Z</updated-at>
+    <uranus-moid>14.2708</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.23535</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>21.9</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>1.656</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>2184</arc-length>
+    <argument-of-perihelion>273.62803</argument-of-perihelion>
+    <ascending-node>35.9074142</ascending-node>
+    <b-minus-v>0.85</b-minus-v>
+    <b-minus-v-source>T</b-minus-v-source>
+    <binary-object nil="true"/>
+    <color-ignore>???</color-ignore>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>true</critical-list-numbered-object>
+    <delta-v>6.9</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.00048</earth-moid>
+    <eccentricity>0.430576</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2005-12-24.0</first-observation-date-used>
+    <first-opposition-used>2005</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.34056</inclination>
+    <jupiter-moid>3.60589</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2011-12-16.0</last-observation-date-used>
+    <last-opposition-used>2011</last-opposition-used>
+    <lightcurve-notes>AT0</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.03884</mars-moid>
+    <mean-anomaly>175.2277</mean-anomaly>
+    <mean-daily-motion>0.7916363</mean-daily-motion>
+    <mercury-moid>0.22755</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>308635</number>
+    <observations>3425</observations>
+    <oppositions>3</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-07-03T13:57:43Z</orbit-updated-at>
+    <p-vector-x>0.63654509</p-vector-x>
+    <p-vector-y>-0.7052179</p-vector-y>
+    <p-vector-z>-0.31221476</p-vector-z>
+    <panstarrs-v-minus-gprime>-0.38</panstarrs-v-minus-gprime>
+    <panstarrs-v-minus-gprime-source>P</panstarrs-v-minus-gprime-source>
+    <panstarrs-v-minus-iprime>0.35</panstarrs-v-minus-iprime>
+    <panstarrs-v-minus-iprime-source>P</panstarrs-v-minus-iprime-source>
+    <panstarrs-v-minus-rprime>0.13</panstarrs-v-minus-rprime>
+    <panstarrs-v-minus-rprime-source>P</panstarrs-v-minus-rprime-source>
+    <panstarrs-v-minus-uprime>0.0</panstarrs-v-minus-uprime>
+    <panstarrs-v-minus-wprime>-0.11</panstarrs-v-minus-wprime>
+    <panstarrs-v-minus-wprime-source>P</panstarrs-v-minus-wprime-source>
+    <panstarrs-v-minus-yprime>0.34</panstarrs-v-minus-yprime>
+    <panstarrs-v-minus-yprime-source>P</panstarrs-v-minus-yprime-source>
+    <panstarrs-v-minus-zprime>0.26</panstarrs-v-minus-zprime>
+    <panstarrs-v-minus-zprime-source>P</panstarrs-v-minus-zprime-source>
+    <perihelion-date>2015-06-05.65126</perihelion-date>
+    <perihelion-date-jd>2457179.15126</perihelion-date-jd>
+    <perihelion-distance>0.6590037</perihelion-distance>
+    <period>1.25</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>0.77123161</q-vector-x>
+    <q-vector-y>0.58387775</q-vector-y>
+    <q-vector-z>0.25355193</q-vector-z>
+    <rc-minus-ic>0.4</rc-minus-ic>
+    <rc-minus-ic-source>D</rc-minus-ic-source>
+    <residual-rms>0.41</residual-rms>
+    <saturn-moid>7.42225</saturn-moid>
+    <semimajor-axis>1.1573164</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.2</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>19.31</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:38Z</spin-updated-at>
+    <taxonomy-class>S</taxonomy-class>
+    <taxonomy-class-source>O</taxonomy-class-source>
+    <tisserand-jupiter>5.3</tisserand-jupiter>
+    <u-minus-b>0.4</u-minus-b>
+    <u-minus-b-source>T</u-minus-b-source>
+    <updated-at>2016-03-29T20:50:41Z</updated-at>
+    <uranus-moid>16.7017</uranus-moid>
+    <v-minus-gprime>-0.39</v-minus-gprime>
+    <v-minus-gprime-source>t</v-minus-gprime-source>
+    <v-minus-iprime>0.411</v-minus-iprime>
+    <v-minus-iprime-source>d</v-minus-iprime-source>
+    <v-minus-rc>0.48</v-minus-rc>
+    <v-minus-rc-source>T</v-minus-rc-source>
+    <v-minus-rprime>0.247</v-minus-rprime>
+    <v-minus-rprime-source>t</v-minus-rprime-source>
+    <v-minus-uprime>0.0</v-minus-uprime>
+    <v-minus-wprime>0.0</v-minus-wprime>
+    <v-minus-yprime>0.0</v-minus-yprime>
+    <v-minus-zprime>0.525</v-minus-zprime>
+    <v-minus-zprime-source>d</v-minus-zprime-source>
+    <venus-moid>0.0017</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>20.3</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.964</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>2981</arc-length>
+    <argument-of-perihelion>280.60809</argument-of-perihelion>
+    <ascending-node>127.1104663</ascending-node>
+    <b-minus-v nil="true"/>
+    <b-minus-v-source nil="true"/>
+    <binary-object nil="true"/>
+    <color-ignore nil="true"/>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.2</delta-v>
+    <designation nil="true"/>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid nil="true"/>
+    <eccentricity>0.5460752</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2007-01-10.0</first-observation-date-used>
+    <first-opposition-used>2007</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.45915</inclination>
+    <jupiter-moid nil="true"/>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-03-10.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>.</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid nil="true"/>
+    <mean-anomaly>158.71672</mean-anomaly>
+    <mean-daily-motion>0.3712493</mean-daily-motion>
+    <mercury-moid nil="true"/>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number>406213</number>
+    <observations>575</observations>
+    <oppositions>5</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-09-11T20:33:21Z</orbit-updated-at>
+    <p-vector-x>0.6725188</p-vector-x>
+    <p-vector-y>0.68857774</p-vector-y>
+    <p-vector-z>0.2712548</p-vector-z>
+    <panstarrs-v-minus-gprime nil="true"/>
+    <panstarrs-v-minus-gprime-source nil="true"/>
+    <panstarrs-v-minus-iprime nil="true"/>
+    <panstarrs-v-minus-iprime-source nil="true"/>
+    <panstarrs-v-minus-rprime nil="true"/>
+    <panstarrs-v-minus-rprime-source nil="true"/>
+    <panstarrs-v-minus-uprime nil="true"/>
+    <panstarrs-v-minus-wprime nil="true"/>
+    <panstarrs-v-minus-wprime-source nil="true"/>
+    <panstarrs-v-minus-yprime nil="true"/>
+    <panstarrs-v-minus-yprime-source nil="true"/>
+    <panstarrs-v-minus-zprime nil="true"/>
+    <panstarrs-v-minus-zprime-source nil="true"/>
+    <perihelion-date>2014-11-11.47934</perihelion-date>
+    <perihelion-date-jd>2456972.97934</perihelion-date-jd>
+    <perihelion-distance>0.8703142</perihelion-distance>
+    <period>2.65</period>
+    <pha>true</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.73980138</q-vector-x>
+    <q-vector-y>0.61542551</q-vector-y>
+    <q-vector-z>0.27192895</q-vector-z>
+    <rc-minus-ic nil="true"/>
+    <rc-minus-ic-source nil="true"/>
+    <residual-rms>0.36</residual-rms>
+    <saturn-moid nil="true"/>
+    <semimajor-axis>1.9173093</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.6</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>8.54</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:40Z</spin-updated-at>
+    <taxonomy-class nil="true"/>
+    <taxonomy-class-source nil="true"/>
+    <tisserand-jupiter>3.7</tisserand-jupiter>
+    <u-minus-b nil="true"/>
+    <u-minus-b-source nil="true"/>
+    <updated-at>2016-03-08T02:50:41Z</updated-at>
+    <uranus-moid nil="true"/>
+    <v-minus-gprime nil="true"/>
+    <v-minus-gprime-source nil="true"/>
+    <v-minus-iprime nil="true"/>
+    <v-minus-iprime-source nil="true"/>
+    <v-minus-rc nil="true"/>
+    <v-minus-rc-source nil="true"/>
+    <v-minus-rprime nil="true"/>
+    <v-minus-rprime-source nil="true"/>
+    <v-minus-uprime nil="true"/>
+    <v-minus-wprime nil="true"/>
+    <v-minus-yprime nil="true"/>
+    <v-minus-zprime nil="true"/>
+    <v-minus-zprime-source nil="true"/>
+    <venus-moid nil="true"/>
+  </property>
+  <property>
+    <absolute-magnitude>24.1</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>2.564</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>5484</arc-length>
+    <argument-of-perihelion>177.35234</argument-of-perihelion>
+    <ascending-node>259.8719014</ascending-node>
+    <b-minus-v nil="true"/>
+    <b-minus-v-source nil="true"/>
+    <binary-object nil="true"/>
+    <color-ignore nil="true"/>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.6</delta-v>
+    <designation>2000 SM10</designation>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.00878</earth-moid>
+    <eccentricity>0.5401725</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2000-09-23.0</first-observation-date-used>
+    <first-opposition-used>2000</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.55042</inclination>
+    <jupiter-moid>2.6309</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2015-09-29.0</last-observation-date-used>
+    <last-opposition-used>2015</last-opposition-used>
+    <lightcurve-notes>N</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.04284</mars-moid>
+    <mean-anomaly>25.78239</mean-anomaly>
+    <mean-daily-motion>0.4588512</mean-daily-motion>
+    <mercury-moid>0.45303</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number nil="true"/>
+    <observations>176</observations>
+    <oppositions>2</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-06-30T17:49:50Z</orbit-updated-at>
+    <p-vector-x>0.22113385</p-vector-x>
+    <p-vector-y>0.89459178</p-vector-y>
+    <p-vector-z>0.38833668</p-vector-z>
+    <panstarrs-v-minus-gprime nil="true"/>
+    <panstarrs-v-minus-gprime-source nil="true"/>
+    <panstarrs-v-minus-iprime nil="true"/>
+    <panstarrs-v-minus-iprime-source nil="true"/>
+    <panstarrs-v-minus-rprime nil="true"/>
+    <panstarrs-v-minus-rprime-source nil="true"/>
+    <panstarrs-v-minus-uprime nil="true"/>
+    <panstarrs-v-minus-wprime nil="true"/>
+    <panstarrs-v-minus-wprime-source nil="true"/>
+    <panstarrs-v-minus-yprime nil="true"/>
+    <panstarrs-v-minus-yprime-source nil="true"/>
+    <panstarrs-v-minus-zprime nil="true"/>
+    <panstarrs-v-minus-zprime-source nil="true"/>
+    <perihelion-date>2015-11-17.81101</perihelion-date>
+    <perihelion-date-jd>2457344.31101</perihelion-date-jd>
+    <perihelion-distance>0.7655077</perihelion-distance>
+    <period>2.15</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.97519762</q-vector-x>
+    <q-vector-y>0.20669799</q-vector-y>
+    <q-vector-z>0.07915524</q-vector-z>
+    <rc-minus-ic nil="true"/>
+    <rc-minus-ic-source nil="true"/>
+    <residual-rms>0.49</residual-rms>
+    <saturn-moid>7.371</saturn-moid>
+    <semimajor-axis>1.6647715</semimajor-axis>
+    <spin-amplitude-flag>&gt;</spin-amplitude-flag>
+    <spin-max-amplitude>0.2</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>18.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag>&gt;</spin-period-flag>
+    <spin-updated-at>2014-10-27T13:51:39Z</spin-updated-at>
+    <taxonomy-class nil="true"/>
+    <taxonomy-class-source nil="true"/>
+    <tisserand-jupiter>4.1</tisserand-jupiter>
+    <u-minus-b nil="true"/>
+    <u-minus-b-source nil="true"/>
+    <updated-at>2015-11-17T04:08:37Z</updated-at>
+    <uranus-moid>16.2085</uranus-moid>
+    <v-minus-gprime nil="true"/>
+    <v-minus-gprime-source nil="true"/>
+    <v-minus-iprime nil="true"/>
+    <v-minus-iprime-source nil="true"/>
+    <v-minus-rc nil="true"/>
+    <v-minus-rc-source nil="true"/>
+    <v-minus-rprime nil="true"/>
+    <v-minus-rprime-source nil="true"/>
+    <v-minus-uprime nil="true"/>
+    <v-minus-wprime nil="true"/>
+    <v-minus-yprime nil="true"/>
+    <v-minus-zprime nil="true"/>
+    <v-minus-zprime-source nil="true"/>
+    <venus-moid>0.03921</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>23.4</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>3.266</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>50</arc-length>
+    <argument-of-perihelion>160.65886</argument-of-perihelion>
+    <ascending-node>349.7731368</ascending-node>
+    <b-minus-v nil="true"/>
+    <b-minus-v-source nil="true"/>
+    <binary-object nil="true"/>
+    <color-ignore nil="true"/>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.0</delta-v>
+    <designation>2002 EC</designation>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.04434</earth-moid>
+    <eccentricity>0.5194784</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2002-03-04.0</first-observation-date-used>
+    <first-opposition-used>2002</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.91796</inclination>
+    <jupiter-moid>1.74189</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2002-04-23.0</last-observation-date-used>
+    <last-opposition-used>2002</last-opposition-used>
+    <lightcurve-notes>.</lightcurve-notes>
+    <lightcurve-quality>3-</lightcurve-quality>
+    <mars-moid>0.01039</mars-moid>
+    <mean-anomaly>145.79753</mean-anomaly>
+    <mean-daily-motion>0.3127005</mean-daily-motion>
+    <mercury-moid>0.67472</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number nil="true"/>
+    <observations>159</observations>
+    <oppositions>1</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>6</orbit-uncertainty>
+    <orbit-updated-at>2014-07-02T21:06:53Z</orbit-updated-at>
+    <p-vector-x>-0.86977821</p-vector-x>
+    <p-vector-y>0.45058823</p-vector-y>
+    <p-vector-z>0.20113704</p-vector-z>
+    <panstarrs-v-minus-gprime nil="true"/>
+    <panstarrs-v-minus-gprime-source nil="true"/>
+    <panstarrs-v-minus-iprime nil="true"/>
+    <panstarrs-v-minus-iprime-source nil="true"/>
+    <panstarrs-v-minus-rprime nil="true"/>
+    <panstarrs-v-minus-rprime-source nil="true"/>
+    <panstarrs-v-minus-uprime nil="true"/>
+    <panstarrs-v-minus-wprime nil="true"/>
+    <panstarrs-v-minus-wprime-source nil="true"/>
+    <panstarrs-v-minus-yprime nil="true"/>
+    <panstarrs-v-minus-yprime-source nil="true"/>
+    <panstarrs-v-minus-zprime nil="true"/>
+    <panstarrs-v-minus-zprime-source nil="true"/>
+    <perihelion-date>2014-10-03.74699</perihelion-date>
+    <perihelion-date-jd>2456934.24699</perihelion-date-jd>
+    <perihelion-distance>1.0329908</perihelion-distance>
+    <period>3.15</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.49343467</q-vector-x>
+    <q-vector-y>-0.79187664</q-vector-y>
+    <q-vector-z>-0.35979664</q-vector-z>
+    <rc-minus-ic nil="true"/>
+    <rc-minus-ic-source nil="true"/>
+    <residual-rms>0.53</residual-rms>
+    <saturn-moid>6.47525</saturn-moid>
+    <semimajor-axis>2.1497282</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.57</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>6.17</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:40Z</spin-updated-at>
+    <taxonomy-class nil="true"/>
+    <taxonomy-class-source nil="true"/>
+    <tisserand-jupiter>3.5</tisserand-jupiter>
+    <u-minus-b nil="true"/>
+    <u-minus-b-source nil="true"/>
+    <updated-at>2016-03-08T01:13:03Z</updated-at>
+    <uranus-moid>16.7237</uranus-moid>
+    <v-minus-gprime nil="true"/>
+    <v-minus-gprime-source nil="true"/>
+    <v-minus-iprime nil="true"/>
+    <v-minus-iprime-source nil="true"/>
+    <v-minus-rc nil="true"/>
+    <v-minus-rc-source nil="true"/>
+    <v-minus-rprime nil="true"/>
+    <v-minus-rprime-source nil="true"/>
+    <v-minus-uprime nil="true"/>
+    <v-minus-wprime nil="true"/>
+    <v-minus-yprime nil="true"/>
+    <v-minus-zprime nil="true"/>
+    <v-minus-zprime-source nil="true"/>
+    <venus-moid>0.31716</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>23.6</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>4.69</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>52</arc-length>
+    <argument-of-perihelion>255.26312</argument-of-perihelion>
+    <ascending-node>206.4968407</ascending-node>
+    <b-minus-v nil="true"/>
+    <b-minus-v-source nil="true"/>
+    <binary-object nil="true"/>
+    <color-ignore nil="true"/>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>6.7</delta-v>
+    <designation>2008 VH14</designation>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.03325</earth-moid>
+    <eccentricity>0.6461641</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2008-11-08.0</first-observation-date-used>
+    <first-opposition-used>2008</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>1.42955</inclination>
+    <jupiter-moid>0.52379</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2008-12-30.0</last-observation-date-used>
+    <last-opposition-used>2008</last-opposition-used>
+    <lightcurve-notes>.</lightcurve-notes>
+    <lightcurve-quality>2-</lightcurve-quality>
+    <mars-moid>0.01813</mars-moid>
+    <mean-anomaly>167.18737</mean-anomaly>
+    <mean-daily-motion>0.2049839</mean-daily-motion>
+    <mercury-moid>0.69679</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number nil="true"/>
+    <observations>47</observations>
+    <oppositions>1</oppositions>
+    <orbit-type>4</orbit-type>
+    <orbit-uncertainty>5</orbit-uncertainty>
+    <orbit-updated-at>2014-06-09T18:35:40Z</orbit-updated-at>
+    <p-vector-x>-0.20367764</p-vector-x>
+    <p-vector-y>0.90757419</p-vector-y>
+    <p-vector-z>0.36718457</p-vector-z>
+    <panstarrs-v-minus-gprime nil="true"/>
+    <panstarrs-v-minus-gprime-source nil="true"/>
+    <panstarrs-v-minus-iprime nil="true"/>
+    <panstarrs-v-minus-iprime-source nil="true"/>
+    <panstarrs-v-minus-rprime nil="true"/>
+    <panstarrs-v-minus-rprime-source nil="true"/>
+    <panstarrs-v-minus-uprime nil="true"/>
+    <panstarrs-v-minus-wprime nil="true"/>
+    <panstarrs-v-minus-wprime-source nil="true"/>
+    <panstarrs-v-minus-yprime nil="true"/>
+    <panstarrs-v-minus-yprime-source nil="true"/>
+    <panstarrs-v-minus-zprime nil="true"/>
+    <panstarrs-v-minus-zprime-source nil="true"/>
+    <perihelion-date>2013-10-19.38782</perihelion-date>
+    <perihelion-date-jd>2456584.88782</perihelion-date-jd>
+    <perihelion-distance>1.007994</perihelion-distance>
+    <period>4.81</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.97897474</q-vector-x>
+    <q-vector-y>-0.18453442</q-vector-y>
+    <q-vector-z>-0.08692245</q-vector-z>
+    <rc-minus-ic nil="true"/>
+    <rc-minus-ic-source nil="true"/>
+    <residual-rms>0.44</residual-rms>
+    <saturn-moid>5.36787</saturn-moid>
+    <semimajor-axis>2.8487612</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>0.7</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>7.5</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:41Z</spin-updated-at>
+    <taxonomy-class nil="true"/>
+    <taxonomy-class-source nil="true"/>
+    <tisserand-jupiter>3.0</tisserand-jupiter>
+    <u-minus-b nil="true"/>
+    <u-minus-b-source nil="true"/>
+    <updated-at>2016-03-08T01:16:10Z</updated-at>
+    <uranus-moid>14.6897</uranus-moid>
+    <v-minus-gprime nil="true"/>
+    <v-minus-gprime-source nil="true"/>
+    <v-minus-iprime nil="true"/>
+    <v-minus-iprime-source nil="true"/>
+    <v-minus-rc nil="true"/>
+    <v-minus-rc-source nil="true"/>
+    <v-minus-rprime nil="true"/>
+    <v-minus-rprime-source nil="true"/>
+    <v-minus-uprime nil="true"/>
+    <v-minus-wprime nil="true"/>
+    <v-minus-yprime nil="true"/>
+    <v-minus-zprime nil="true"/>
+    <v-minus-zprime-source nil="true"/>
+    <venus-moid>0.29052</venus-moid>
+  </property>
+  <property>
+    <absolute-magnitude>24.0</absolute-magnitude>
+    <albedo-neowise nil="true"/>
+    <albedo-neowise-unc nil="true"/>
+    <albedo-updated-at>2014-07-23T19:43:54Z</albedo-updated-at>
+    <aphelion-distance>1.999</aphelion-distance>
+    <apparition-end-date nil="true"/>
+    <apparition-end-magn nil="true"/>
+    <apparition-start-date nil="true"/>
+    <apparition-start-magn nil="true"/>
+    <arc-length>1801</arc-length>
+    <argument-of-perihelion>155.01885</argument-of-perihelion>
+    <ascending-node>341.8931186</ascending-node>
+    <b-minus-v nil="true"/>
+    <b-minus-v-source nil="true"/>
+    <binary-object nil="true"/>
+    <color-ignore nil="true"/>
+    <color-updated-at>2014-07-23T19:44:17Z</color-updated-at>
+    <critical-list-numbered-object>false</critical-list-numbered-object>
+    <delta-v>5.9</delta-v>
+    <designation>2009 WV25</designation>
+    <diameter-neowise nil="true"/>
+    <diameter-neowise-unc nil="true"/>
+    <earth-moid>0.00516</earth-moid>
+    <eccentricity>0.4268699</eccentricity>
+    <epoch>2016-01-13.0</epoch>
+    <epoch-jd>2457400.5</epoch-jd>
+    <first-observation-date-used>2009-11-22.0</first-observation-date-used>
+    <first-opposition-used>2009</first-opposition-used>
+    <g-neowise nil="true"/>
+    <greatest-elong nil="true"/>
+    <greatest-elong-date nil="true"/>
+    <greatest-elong-decl nil="true"/>
+    <greatest-elong-magn nil="true"/>
+    <h-neowise nil="true"/>
+    <inclination>0.41232</inclination>
+    <jupiter-moid>3.04027</jupiter-moid>
+    <km-neo>false</km-neo>
+    <last-observation-date-used>2014-10-28.0</last-observation-date-used>
+    <last-opposition-used>2014</last-opposition-used>
+    <lightcurve-notes>T?</lightcurve-notes>
+    <lightcurve-quality>2</lightcurve-quality>
+    <mars-moid>0.01277</mars-moid>
+    <mean-anomaly>218.98902</mean-anomaly>
+    <mean-daily-motion>0.5945137</mean-daily-motion>
+    <mercury-moid>0.46034</mercury-moid>
+    <name nil="true"/>
+    <neo>true</neo>
+    <number nil="true"/>
+    <observations>195</observations>
+    <oppositions>2</oppositions>
+    <orbit-type>3</orbit-type>
+    <orbit-uncertainty>0</orbit-uncertainty>
+    <orbit-updated-at>2014-06-30T17:49:51Z</orbit-updated-at>
+    <p-vector-x>-0.73030838</p-vector-x>
+    <p-vector-y>0.62553305</p-vector-y>
+    <p-vector-z>0.27451424</p-vector-z>
+    <panstarrs-v-minus-gprime nil="true"/>
+    <panstarrs-v-minus-gprime-source nil="true"/>
+    <panstarrs-v-minus-iprime nil="true"/>
+    <panstarrs-v-minus-iprime-source nil="true"/>
+    <panstarrs-v-minus-rprime nil="true"/>
+    <panstarrs-v-minus-rprime-source nil="true"/>
+    <panstarrs-v-minus-uprime nil="true"/>
+    <panstarrs-v-minus-wprime nil="true"/>
+    <panstarrs-v-minus-wprime-source nil="true"/>
+    <panstarrs-v-minus-yprime nil="true"/>
+    <panstarrs-v-minus-yprime-source nil="true"/>
+    <panstarrs-v-minus-zprime nil="true"/>
+    <panstarrs-v-minus-zprime-source nil="true"/>
+    <perihelion-date>2016-09-06.18711</perihelion-date>
+    <perihelion-date-jd>2457637.68711</perihelion-date-jd>
+    <perihelion-distance>0.8028133</perihelion-distance>
+    <period>1.66</period>
+    <pha>false</pha>
+    <phase-slope>0.15</phase-slope>
+    <q-vector-x>-0.68311395</q-vector-x>
+    <q-vector-y>-0.66742654</q-vector-y>
+    <q-vector-z>-0.29647454</q-vector-z>
+    <rc-minus-ic nil="true"/>
+    <rc-minus-ic-source nil="true"/>
+    <residual-rms>0.46</residual-rms>
+    <saturn-moid>7.77713</saturn-moid>
+    <semimajor-axis>1.4007522</semimajor-axis>
+    <spin-amplitude-flag>-</spin-amplitude-flag>
+    <spin-max-amplitude>1.24</spin-max-amplitude>
+    <spin-min-amplitude nil="true"/>
+    <spin-period>5.0</spin-period>
+    <spin-period-description nil="true"/>
+    <spin-period-flag nil="true"/>
+    <spin-updated-at>2014-10-27T13:51:41Z</spin-updated-at>
+    <taxonomy-class nil="true"/>
+    <taxonomy-class-source nil="true"/>
+    <tisserand-jupiter>4.7</tisserand-jupiter>
+    <u-minus-b nil="true"/>
+    <u-minus-b-source nil="true"/>
+    <updated-at>2016-03-08T01:16:48Z</updated-at>
+    <uranus-moid>17.3579</uranus-moid>
+    <v-minus-gprime nil="true"/>
+    <v-minus-gprime-source nil="true"/>
+    <v-minus-iprime nil="true"/>
+    <v-minus-iprime-source nil="true"/>
+    <v-minus-rc nil="true"/>
+    <v-minus-rc-source nil="true"/>
+    <v-minus-rprime nil="true"/>
+    <v-minus-rprime-source nil="true"/>
+    <v-minus-uprime nil="true"/>
+    <v-minus-wprime nil="true"/>
+    <v-minus-yprime nil="true"/>
+    <v-minus-zprime nil="true"/>
+    <v-minus-zprime-source nil="true"/>
+    <venus-moid>0.0918</venus-moid>
+  </property>
+</properties>
+
